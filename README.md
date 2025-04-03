@@ -2,16 +2,15 @@
   <img width='100%' src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey%20there&fontAlign=53&animation=fadeIn"/>
 </p>
 
-# I'm Jagadeeshwaran
-Working as a Web designer and Frontend Developer 
+# Jagadeeshwaran 
 
+Web Designer & Frontend Developer
 
+## About Me
 
-#  Welcome to My GitHub Profile
+I'm a passionate web developer specializing in creating user-friendly and efficient applications. My expertise lies in React.js, Next.js, and Tailwind CSS, and I'm always eager to explore new technologies.
 
-## 🚀 About Me
-
-I am a passionate **Web Developer** with experience in **React.js**, **Next.js**, and **Tailwind CSS**. I love crafting user-friendly and efficient applications while constantly learning new technologies.
+## Portfolio and Contact
 
 <p align="left">
   <a href="https://jagadeeshwaran-dev20.vercel.app" target="_blank">
@@ -22,9 +21,7 @@ I am a passionate **Web Developer** with experience in **React.js**, **Next.js**
   </a>
 </p>
 
----
-
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 <p align="center">
   <a href="https://react.dev">
@@ -71,16 +68,13 @@ I am a passionate **Web Developer** with experience in **React.js**, **Next.js**
   </a>
 </p>
 
+## Projects
 
----
+### ToDo App
 
-## 🌟 Projects
+A task management application to create, update, and organize daily tasks efficiently.
 
-### **[ToDo App](https://github.com/JAGADEESHWARAN20/todoApp)**
-
-A task management application to create, update, and organize daily tasks efficiently. 
-
-#### **Tech Stack:**
+**Tech Stack:**
 
 <p align="left">
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React">
@@ -89,26 +83,18 @@ A task management application to create, update, and organize daily tasks effici
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB">
 </p>
 
----
+[Project Link](https://github.com/JAGADEESHWARAN20/todoApp)
 
-
-
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div style="align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=JAGADEESHWARAN20&show_icons=true&theme=react" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAGADEESHWARAN20&layout=compact&theme=react" alt="Top Languages">
 </div>
 
----
+## Goals
 
-## 🎯 Goals
+*   Master React.js and Next.js to build cutting-edge web solutions.
+*   Develop innovative and impactful web applications.
+*   Contribute back to the community by sharing knowledge and mentoring others.
 
-- Become an expert in **React.js** and **Next.js**.
-- Develop innovative web applications.
-- Share knowledge through content creation and mentoring.
-
----
-
-Thank you for visiting my profile! 😊
